@@ -1,8 +1,8 @@
 baseURL: "https://florenzo-sec.github.io/"
 title: "florenzo-sec"
 theme: PaperMod
-locale: it
-defaultContentLanguage: it
+locale: en
+defaultContentLanguage: en
 hasCJKLanguage: false
 pagination:
   pagerSize: 10
@@ -25,7 +25,7 @@ outputs:
 params:
   env: production
   title: "florenzo-sec"
-  description: "Appunti di studio su sicurezza informatica, reti e HackTheBox: come si attacca e, soprattutto, come ci si difende."
+  description: "Study notes on cybersecurity, networking and Hack The Box: how things get attacked and, above all, how to defend them."
   author: "florenzo-sec"
   defaultTheme: auto
   ShowReadingTime: true
@@ -35,14 +35,13 @@ params:
   ShowCodeCopyButtons: true
   ShowToc: true
   TocOpen: false
-  showtoc: true
 
   homeInfoParams:
-    Title: "Ciao, sono florenzo-sec"
+    Title: "Hi, I'm florenzo-sec"
     Content: >
-      Studio sicurezza informatica e reti (CCNA, Security+). Qui raccolgo i writeup delle
-      macchine HackTheBox che completo, con una sezione dedicata a come prevenire e rilevare
-      ogni attacco.
+      I study cybersecurity and networking (CCNA, Security+). This blog collects my write-ups
+      of the Hack The Box machines I complete, each with a section on how the attack
+      can be prevented and detected.
 
   socialIcons:
     - name: github
@@ -62,18 +61,18 @@ params:
 menu:
   main:
     - identifier: posts
-      name: Writeup
+      name: Write-ups
       url: /posts/
       weight: 10
     - identifier: tags
-      name: Tag
+      name: Tags
       url: /tags/
       weight: 20
     - identifier: search
-      name: Cerca
+      name: Search
       url: /search/
       weight: 30
     - identifier: about
-      name: Chi sono
+      name: About
       url: /about/
       weight: 40

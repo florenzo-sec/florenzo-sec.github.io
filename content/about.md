@@ -1,21 +1,21 @@
 ---
-title: "Chi sono"
-description: "Certificazioni, progetti e obiettivi di studio."
+title: "About"
+description: "Certifications, projects and study goals."
 ShowToc: false
 ---
 
-Mi sto costruendo un percorso nella sicurezza informatica e uso questo blog come quaderno di studio pubblico: per ogni macchina HackTheBox che completo scrivo cosa ho fatto, cosa non sapevo e come si sarebbe potuto prevenire o rilevare l'attacco.
+I'm building a career in cybersecurity and I use this blog as a public study notebook: for every Hack The Box machine I complete, I write down what I did, what I didn't know beforehand, and how the attack could have been prevented or detected.
 
-## Certificazioni
+## Certifications
 
 - Cisco CCNA
 - CompTIA Security+
 
-## Come lavoro
+## How I work
 
-Prendo appunti grezzi mentre risolvo la macchina (comandi, ragionamenti, vicoli ciechi) e poi li riordino in un writeup. Ogni writeup contiene una sezione di difesa, perché capire l'attacco serve soprattutto a sapere come bloccarlo.
+I take raw notes while solving a machine (commands, reasoning, dead ends) and then turn them into a write-up. Every write-up includes a defense section, because understanding an attack matters most when it helps you stop it.
 
-## Progetti
+## Projects
 
 - [ARPex](https://github.com/florenzo-sec/ARPex)
 - [NetProbe](https://github.com/florenzo-sec/NetProbe)
@@ -24,8 +24,8 @@ Prendo appunti grezzi mentre risolvo la macchina (comandi, ragionamenti, vicoli 
 - [python-for-cybersecurity](https://github.com/florenzo-sec/python-for-cybersecurity)
 - [CompTIA-Linux-](https://github.com/florenzo-sec/CompTIA-Linux-)
 
-## Contatti
+## Contact
 
 - GitHub: [florenzo-sec](https://github.com/florenzo-sec)
 
-<!-- TODO: aggiungere qui i link a LinkedIn e al profilo HackTheBox -->
+<!-- TODO: add LinkedIn and Hack The Box profile links here -->

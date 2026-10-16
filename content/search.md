@@ -1,6 +1,6 @@
 ---
-title: "Cerca"
+title: "Search"
 layout: "search"
 summary: "search"
-placeholder: "Cerca tra i writeup"
+placeholder: "Search the write-ups"
 ---

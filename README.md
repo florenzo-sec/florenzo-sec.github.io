@@ -1,23 +1,23 @@
 # florenzo-sec.github.io
 
-Blog personale su sicurezza informatica, reti e HackTheBox. Costruito con [Hugo](https://gohugo.io/) e il tema [PaperMod](https://github.com/adityatelange/hugo-PaperMod) (MIT, incluso in `themes/PaperMod`), pubblicato con GitHub Pages tramite GitHub Actions.
+Personal blog on cybersecurity, networking and Hack The Box. Built with [Hugo](https://gohugo.io/) and the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme (MIT, bundled in `themes/PaperMod`), published with GitHub Pages through GitHub Actions.
 
-## Scrivere un nuovo post
+## Writing a new post
 
 ```bash
-hugo new content posts/htb-nome-macchina.md
+hugo new content posts/htb-machine-name.md
 ```
 
-Modifica il file in `content/posts/`, poi `git push` su `main`: il workflow compila e pubblica il sito.
+Edit the file in `content/posts/`, then `git push` to `main`: the workflow builds and publishes the site.
 
-## Anteprima in locale
+## Local preview
 
 ```bash
 hugo server -D
 ```
 
-## Regole di pubblicazione
+## Publishing rules
 
-- Mai la flag, mai l'IP del target o della VPN negli screenshot.
-- Controllare la policy HackTheBox sui writeup prima di pubblicare.
-- Gli appunti grezzi vanno in un repository privato, non qui.
+- Never publish the flag, and never show the target or VPN IP in screenshots.
+- Check Hack The Box's write-up policy before publishing.
+- Raw notes belong in a private repository, not here.
